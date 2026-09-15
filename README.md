@@ -4,9 +4,9 @@
 
 ### Lecturer · Head of Information Technology
 
-**Software Engineering · Data Engineering · Applied AI/ML**
-
-*Technology × Data × Business × Higher Education*
+<a href="https://github.com/Triyan31">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+%C2%B7+Data+Engineering+%C2%B7+Applied+AI%2FML;Technology+%C3%97+Data+%C3%97+Business+%C3%97+Higher+Education;Building+practical+systems+and+applied+research" alt="Typing SVG" />
+</a>
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.co.id/citations?user=Xi-AIG4AAAAJ&hl=id)
 [![SINTA](https://img.shields.io/badge/SINTA-Author%20Profile-0B7285)](https://sinta.kemdiktisaintek.go.id/authors/profile/6989433)
@@ -27,6 +27,17 @@ I build practical information systems, integrations, data workflows, and applied
 ### Current Focus
 
 `Identity & Access Management` · `Higher-Education Information Systems` · `Data Engineering` · `Business Intelligence` · `Applied Machine Learning` · `System Integration & Automation`
+
+---
+
+## GitHub at a Glance
+
+<div align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Triyan31&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_border=false&theme=github_dark&custom_title=Triyan%27s+GitHub+Stats" alt="Triyan Agung Laksono GitHub stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triyan31&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=false&theme=github_dark&custom_title=Public+Repository+Languages" alt="Most used languages in Triyan31 public repositories" />
+</div>
+
+<p align="center"><sub>GitHub cards primarily reflect public repository activity. A significant part of my professional engineering work is maintained in private repositories or institutional environments.</sub></p>
 
 ---
 
