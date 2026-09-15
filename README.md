@@ -22,46 +22,72 @@
 
 I'm a lecturer and IT professional at **STIE SBI Yogyakarta**. My academic path spans **Computer Technology, Informatics, and Information Technology**, while my professional and research work sits at the intersection of software, data, business, and higher education.
 
-I build and work with information systems, system integration, IT infrastructure, data engineering, and applied machine learning—particularly where technology can improve higher-education processes and decision-making.
+I build practical information systems, integrations, data workflows, and applied machine-learning solutions, with a particular interest in technology that improves higher-education processes and decision-making.
 
-## What I'm Working On
+### Current Focus
 
 `Identity & Access Management` · `Higher-Education Information Systems` · `Data Engineering` · `Business Intelligence` · `Applied Machine Learning` · `System Integration & Automation`
 
 ---
 
-## Selected Work
+## Featured Public Work
 
 ### 🧩 [Lumina OJS Theme](https://github.com/Triyan31/lumina-ojs-theme)
-A public theme-development project for academic publishing with OJS, representing my work around publishing systems, UI/theme engineering, and higher-education web infrastructure.
+Theme-development framework for Open Journal Systems, reflecting my work in academic publishing systems, UI/theme engineering, and higher-education web infrastructure.
 
 `OJS` `PHP` `Theme Development` `Academic Publishing`
 
 ### 🤖 [Shuttle Imbalance Bench](https://github.com/Triyan31/shuttle-imbalance-bench)
-Research-oriented implementation related to multiclass imbalanced-data classification using Gradient Boosting, SMOTE, and Random Forest.
+Research-oriented implementation for multiclass imbalanced-data classification using Gradient Boosting, SMOTE, and Random Forest.
 
-`Machine Learning` `SMOTE` `Random Forest` `Gradient Boosting`
+`Python` `Scikit-learn` `SMOTE` `Random Forest` `Gradient Boosting`
 
-### 🔐 Higher-Education Identity Platform
-Ongoing work on secure identity and access management for higher-education applications, including delegated administration and auditability.
+### 📱 [Firebase Movie](https://github.com/Triyan31/firebase_movie)
+Earlier mobile application work using Flutter and Firebase, retained as part of my development progression from application development toward larger information-system and data projects.
 
-`Django` `Vue` `Keycloak` `OAuth/OIDC` `IAM`
+`Flutter` `Dart` `Firebase`
 
-### 🎓 Academic Remedial Information System
-Academic administration and integration work for remedial registration and student-course management.
+---
 
-`Python` `Django` `SQL` `Moodle Integration`
+## Private Professional Work
+
+Some of my current systems are intentionally maintained in private repositories. They are presented here at a portfolio level without exposing source code, credentials, institutional data, client data, or operational configuration.
+
+### 🔐 Higher-Education Identity & Access Management Platform
+An actively developed SSO/IAM platform for higher-education applications, with centralized identity, delegated administration, authorization controls, and auditability.
+
+`Django` `Vue` `Keycloak` `OAuth/OIDC` `IAM` `Audit Trail`
+
+### 🎓 Academic Remedial Data Integration & Automation
+Development and integration work supporting an existing remedial academic information system, including data-import and synchronization workflows. The private `remedi_importer` repository contains supporting tooling rather than the entire remedial application.
+
+`Python` `Django` `SQL` `Academic Data Integration`
 
 ### 🔄 Moodle Academic Automation
-Automation and integration work around course provisioning, enrollment, lecturer assignment, and academic data workflows.
+Server-side automation for Moodle academic operations, including course provisioning, enrollment workflows, lecturer assignment, self-enrolment configuration, and academic data synchronization. This work is maintained as internal/server-side tooling rather than a public GitHub project.
 
-`Moodle` `PHP` `API` `Data Processing`
+`Moodle` `PHP` `CLI` `APIs` `Automation`
 
-> Some institutional and client systems are intentionally kept private. Public portfolio entries describe the engineering work without exposing private source code, credentials, or operational data.
+### 🗂️ Academic Accreditation Data Management
+A multi-stage application project for organizing accreditation and institutional-supporting data, maintained privately.
 
-### Earlier Development Work
+`Web Application` `Data Management` `Higher Education`
 
-My public repositories also include earlier learning and application-development work with Flutter/Firebase, such as [firebase_movie](https://github.com/Triyan31/firebase_movie), [firebase_movie-tidy](https://github.com/Triyan31/firebase_movie-tidy), [movielist_Flutter](https://github.com/Triyan31/movielist_Flutter), and [flutter_P4](https://github.com/Triyan31/flutter_P4). I keep these visible as part of my development journey rather than presenting every repository as current core expertise.
+### 📄 EximCheck — Export/Import Document Validation
+A private product under active development for validating and organizing export/import documentation. The project is being developed toward a commercial collaboration/product model, so implementation details and client information remain private.
+
+`Web Application` `Document Validation` `Workflow Automation` `Private Product Development`
+
+---
+
+## Collaborative Engineering
+
+### 🤝 Academic Information System (SIAKAD)
+Verified contributor to a team-developed academic information system hosted in a collaborator-owned private repository. Git history records **18+ commits** authored by my GitHub account; I present this as collaborative work rather than as an owned project.
+
+`Django` `Academic Information System` `Team Development`
+
+> In some private team projects, development has also been performed locally and delivered to repository owners for integration. I only present Git-verifiable collaboration explicitly; other access-only repositories are not claimed as portfolio contributions.
 
 ---
 
@@ -107,6 +133,9 @@ My teaching bridges information technology, data, and business:
 
 **Infrastructure & Platforms**  
 `Linux` · `Git` · `Moodle` · `OJS` · `Keycloak`
+
+**Mobile & Earlier Development**  
+`Flutter` · `Dart` · `Firebase`
 
 ---
 
