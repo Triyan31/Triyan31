@@ -33,11 +33,11 @@ I build practical information systems, integrations, data workflows, and applied
 ## GitHub at a Glance
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Triyan31&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_border=false&theme=github_dark&custom_title=Triyan%27s+GitHub+Stats" alt="Triyan Agung Laksono GitHub stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triyan31&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=false&theme=github_dark&custom_title=Public+Repository+Languages" alt="Most used languages in Triyan31 public repositories" />
+  <img height="185" src="./profile/stats.svg" alt="Triyan Agung Laksono GitHub stats" />
+  <img height="185" src="./profile/top-langs.svg" alt="Languages used across Triyan31 public repositories" />
 </div>
 
-<p align="center"><sub>GitHub cards primarily reflect public repository activity. A significant part of my professional engineering work is maintained in private repositories or institutional environments.</sub></p>
+<p align="center"><sub>Cards are generated in this repository by GitHub Actions and primarily reflect public repository activity. A significant part of my professional engineering work is maintained in private repositories or institutional environments.</sub></p>
 
 ---
 
