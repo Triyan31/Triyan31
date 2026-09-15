@@ -1,117 +1,105 @@
-# Hi, I'm Triyan Agung Laksono 👋
+<div align="center">
 
-### Lecturer & Head of Information Technology
+# Triyan Agung Laksono
 
-**Software Engineering • Data Engineering • Applied AI**
+### Lecturer · Head of Information Technology
 
-I work at the intersection of **technology, data, business, and higher education**, building practical information systems and exploring data-driven approaches to real-world problems.
+**Software Engineering · Data Engineering · Applied AI/ML**
 
----
+*Technology × Data × Business × Higher Education*
 
-## About Me
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.co.id/citations?user=Xi-AIG4AAAAJ&hl=id)
+[![SINTA](https://img.shields.io/badge/SINTA-Author%20Profile-0B7285)](https://sinta.kemdiktisaintek.go.id/authors/profile/6989433)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Author-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/759850393601369)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Triyan-Laksono)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/triyan-agung-laksono-8545561b7)
 
-I'm a lecturer and IT professional at **STIE SBI Yogyakarta**, with an academic background in **Computer Technology, Informatics, and Information Technology**.
-
-My work combines software engineering, data engineering, information systems, and applied machine learning, particularly for higher-education environments.
-
-Alongside teaching and research, I work on information systems, IT infrastructure, system integration, and digital transformation initiatives in higher education.
-
----
-
-## Current Focus
-
-- 🔐 Identity & Access Management
-- 🎓 Higher-Education Information Systems
-- 📊 Data Engineering & Business Intelligence
-- 🤖 Applied Machine Learning
-- 🔗 System Integration & Automation
-- 🏗️ Software Architecture
+</div>
 
 ---
 
-## Selected Engineering Projects
+## About
+
+I'm a lecturer and IT professional at **STIE SBI Yogyakarta**. My academic path spans **Computer Technology, Informatics, and Information Technology**, while my professional and research work sits at the intersection of software, data, business, and higher education.
+
+I build and work with information systems, system integration, IT infrastructure, data engineering, and applied machine learning—particularly where technology can improve higher-education processes and decision-making.
+
+## What I'm Working On
+
+`Identity & Access Management` · `Higher-Education Information Systems` · `Data Engineering` · `Business Intelligence` · `Applied Machine Learning` · `System Integration & Automation`
+
+---
+
+## Selected Work
+
+### 🧩 [Lumina OJS Theme](https://github.com/Triyan31/lumina-ojs-theme)
+A public theme-development project for academic publishing with OJS, representing my work around publishing systems, UI/theme engineering, and higher-education web infrastructure.
+
+`OJS` `PHP` `Theme Development` `Academic Publishing`
+
+### 🤖 [Shuttle Imbalance Bench](https://github.com/Triyan31/shuttle-imbalance-bench)
+Research-oriented implementation related to multiclass imbalanced-data classification using Gradient Boosting, SMOTE, and Random Forest.
+
+`Machine Learning` `SMOTE` `Random Forest` `Gradient Boosting`
 
 ### 🔐 Higher-Education Identity Platform
-Secure identity and access management platform for higher-education applications.
+Ongoing work on secure identity and access management for higher-education applications, including delegated administration and auditability.
 
-`Django` `Vue` `Keycloak` `OAuth/OIDC` `IAM` `Delegated Administration` `Audit Trail`
+`Django` `Vue` `Keycloak` `OAuth/OIDC` `IAM`
 
 ### 🎓 Academic Remedial Information System
-Academic administration system for remedial registration and student-course management.
+Academic administration and integration work for remedial registration and student-course management.
 
 `Python` `Django` `SQL` `Moodle Integration`
 
 ### 🔄 Moodle Academic Automation
-Automation for course provisioning, enrollment, lecturer assignment, and academic system integration.
+Automation and integration work around course provisioning, enrollment, lecturer assignment, and academic data workflows.
 
 `Moodle` `PHP` `API` `Data Processing`
 
-### 📚 Academic Publishing Infrastructure
-Infrastructure and development work for academic publishing platforms.
+> Some institutional and client systems are intentionally kept private. Public portfolio entries describe the engineering work without exposing private source code, credentials, or operational data.
 
-`OJS` `PHP` `Linux` `Web Infrastructure`
+### Earlier Development Work
 
-### 📊 Academic Data Engineering
-ETL and machine-learning work for higher-education analytics.
+My public repositories also include earlier learning and application-development work with Flutter/Firebase, such as [firebase_movie](https://github.com/Triyan31/firebase_movie), [firebase_movie-tidy](https://github.com/Triyan31/firebase_movie-tidy), [movielist_Flutter](https://github.com/Triyan31/movielist_Flutter), and [flutter_P4](https://github.com/Triyan31/flutter_P4). I keep these visible as part of my development journey rather than presenting every repository as current core expertise.
 
-`Python` `Apache Airflow` `Apache Spark` `Scikit-learn`
+---
+
+## Research & Selected Publications
+
+**Digital Activity Location Clustering Based on Twitter Geospatial Data for Spatiotemporal Business Intelligence**  
+*Journal of Intelligent Software Systems, 2025* · `DBSCAN` `K-Means` `Geospatial Analytics` `Power BI`  
+[DOI 10.26798/jiss.v4i1.2005](https://doi.org/10.26798/jiss.v4i1.2005)
+
+**Imbalanced Data Handling for Stroke Prediction Using Oversampling and Cost-Sensitive Learning**  
+*ISRITI 2025 — IEEE* · `Machine Learning` `Imbalanced Classification`  
+[DOI 10.1109/ISRITI68345.2025.11393348](https://doi.org/10.1109/ISRITI68345.2025.11393348)
+
+**Multi-class Imbalanced Data Classification on Statlog (Shuttle) with Gradient Boosting, SMOTE, and Random Forest**  
+*ISRITI 2025 — IEEE* · `Gradient Boosting` `SMOTE` `Random Forest`  
+[DOI 10.1109/ISRITI68345.2025.11393262](https://doi.org/10.1109/ISRITI68345.2025.11393262)
+
+**Apache Airflow vs Apache Spark for ETL in Academic Outcome Prediction**  
+*2025* · `Apache Airflow` `Apache Spark` `Random Forest` `SMOTE`
+
+**Hyperparameter Tuning Modeling for Socioeconomic-based Academic Analysis**  
+*Journal of Information Systems Research and Practice, 2024* · `Machine Learning` `Academic Analytics`
+
+**Research interests:** Data Engineering · Applied Machine Learning · Business Intelligence · Higher-Education Analytics · Information Systems · Educational Technology
 
 ---
 
 ## Teaching
 
-My teaching activities bridge information technology, data, and business.
+My teaching bridges information technology, data, and business:
 
-- Business Intelligence
-- Digital Business
-- Management Information Systems
-- Business Statistics
-- Computer Applications
-
----
-
-## Research Interests
-
-- Data Engineering
-- Applied Machine Learning
-- Business Intelligence
-- Higher-Education Analytics
-- Information Systems
-- Educational Technology
-- Software Engineering
-
----
-
-## Selected Publications
-
-### Digital Activity Location Clustering Based on Twitter Geospatial Data for Spatiotemporal Business Intelligence
-**Journal of Intelligent Software Systems, 2025**  
-`DBSCAN` `K-Means` `Geospatial Analytics` `Power BI`  
-DOI: [10.26798/jiss.v4i1.2005](https://doi.org/10.26798/jiss.v4i1.2005)
-
-### Imbalanced Data Handling for Stroke Prediction Using Oversampling and Cost-Sensitive Learning
-**ISRITI 2025 — IEEE**  
-`Machine Learning` `Imbalanced Classification` `Oversampling`  
-DOI: [10.1109/ISRITI68345.2025.11393348](https://doi.org/10.1109/ISRITI68345.2025.11393348)
-
-### Multi-class Imbalanced Data Classification on Statlog (Shuttle) with Gradient Boosting, SMOTE, and Random Forest
-**ISRITI 2025 — IEEE**  
-`Gradient Boosting` `SMOTE` `Random Forest`  
-DOI: [10.1109/ISRITI68345.2025.11393262](https://doi.org/10.1109/ISRITI68345.2025.11393262)
-
-### Apache Airflow vs Apache Spark for ETL in Academic Outcome Prediction
-**2025**  
-`Apache Airflow` `Apache Spark` `Random Forest` `SMOTE`
-
-### Hyperparameter Tuning Modeling for Socioeconomic-based Academic Analysis
-**Journal of Information Systems Research and Practice, 2024**  
-`Machine Learning` `Academic Analytics`
+`Business Intelligence` · `Digital Business` · `Management Information Systems` · `Business Statistics` · `Computer Applications`
 
 ---
 
 ## Technology
 
-**Software**  
+**Software & Systems**  
 `Python` · `Django` · `PHP` · `Vue` · `REST APIs`
 
 **Data & Analytics**  
@@ -120,28 +108,22 @@ DOI: [10.1109/ISRITI68345.2025.11393262](https://doi.org/10.1109/ISRITI68345.202
 **Infrastructure & Platforms**  
 `Linux` · `Git` · `Moodle` · `OJS` · `Keycloak`
 
-**Research Methods**  
-`Machine Learning` · `ETL` · `Clustering` · `Business Intelligence`
-
 ---
 
 ## Education
 
-🎓 **Magister Teknologi Informasi (M.Kom.)**  
-Universitas Teknologi Digital Indonesia
-
-🎓 **Informatika (S.Kom.)**  
-Universitas Teknologi Digital Indonesia
-
-🎓 **Teknologi Komputer (A.Md.Kom.)**  
-STMIK AKAKOM Yogyakarta
+**Magister Teknologi Informasi (M.Kom.)** — Universitas Teknologi Digital Indonesia  
+**Informatika (S.Kom.)** — Universitas Teknologi Digital Indonesia  
+**Teknologi Komputer (A.Md.Kom.)** — STMIK AKAKOM Yogyakarta
 
 ---
 
-## Academic & Professional Profiles
+## Academic Profiles
 
 [Google Scholar](https://scholar.google.co.id/citations?user=Xi-AIG4AAAAJ&hl=id) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6989433) · [IEEE Xplore](https://ieeexplore.ieee.org/author/759850393601369) · [ResearchGate](https://www.researchgate.net/profile/Triyan-Laksono) · [GARUDA](https://garuda.kemdiktisaintek.go.id/author/view/11168240) · [PDDIKTI](https://pddikti.kemdiktisaintek.go.id/detail-dosen/wtHSDlr790rBWzKZafKyj2nVzyAFMZjrC-DHSaz0-CdbAhny9MUW13xBhTCrI4AquzJVGg==) · [LinkedIn](https://id.linkedin.com/in/triyan-agung-laksono-8545561b7)
 
----
+<div align="center">
 
-> Building and researching practical technology at the intersection of **software, data, business, and higher education**.
+**Building practical technology at the intersection of software, data, business, and higher education.**
+
+</div>
